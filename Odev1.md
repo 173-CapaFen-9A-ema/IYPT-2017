@@ -10,7 +10,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  Black Spoon
 ## Özet
-"Black Spoon" deneyinde kullanılan malzemeler metal kaşık, mum ve su dolu bir kaptır.
+Yapılacak olan deney Black Spoon(Siyah Kaşık) deneyidir."Black Spoon" deneyinde kullanılan malzemeler metal kaşık, mum ve su dolu bir kaptır.
 
 Deneyin ilk adımı olarak bir adet metal kaşık bir süre mum alevine tutularak yüzeyi karartılır. Daha sonra karartılan metal kaşık, su dolu bir kaba batırılır. Kaşık suyun dışında kararmış görünürken, su içinde parlaktır ve ayna etkisi gösterir. Bu durumu şöyle açıklanabilir:
 
