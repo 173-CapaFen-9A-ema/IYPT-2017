@@ -8,15 +8,17 @@ Sınıf | Öğrenci İsmi  | Numara
 9-A| Elif Su Şahin|524
 9-A| Melis Özçilingir|653
 
-#  Spinning Ice
+#  Black Spoon
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+ 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. Посеребренное яйцо //Т. Тит. Научные развлечения. Детиздат ЦК ВЛКСМ, М.-Л.,1937. http://igrushka.kz/vip61/opsvet.php
+ 2. Wikipedia: Total internal reflection(Toplam İç Yansıma). http://en.wikipedia.org/wiki/Total_internal_reflection
+ 3. Wikipédia: Noir de fumée(Siyah Duman).http://fr.wikipedia.org/wiki/Noir_de_fum%C3%A9e
+ 4. Wikipedia: Soot(İs). http://en.wikipedia.org/wiki/Soot
+ 5. Queensland Üniversitesi'ndeki Okul Bilim Dersleri. http://www.uq.edu.au/_School_Science_Lessons/UNPh28.html
+ 
 
