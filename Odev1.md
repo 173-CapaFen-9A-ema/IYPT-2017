@@ -14,7 +14,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 Deneyin ilk adımı olarak bir adet metal kaşık bir süre mum alevine tutularak yüzeyi karartılır. Daha sonra karartılan metal kaşık, su dolu bir kaba batırılır. Kaşık suyun dışında kararmış görünürken, su içinde parlaktır ve ayna etkisi gösterir. Bu durumu şöyle açıklanabilir:
 
-Metal kaşık mum alevine tutulduğunda oluşan is parçacıkları çok küçük olduğundan sudan ıslanmaları çok zordur. Su kaşığa temas edemez ve kaşığın etrafını bir film gibi sararak suyla temasını engeller. Bu film, aynı zamanda bir ayna gibi yansır. Ve böylece kararmış kaşık parlak gözükür.
+Metal kaşık mum alevine tutulduğunda oluşan is parçacıkları çok küçük olduğundan sudan ıslanmaları çok zordur. İs parçacıkları bir film gibi kaşığın etrafını sararak kaşığın su ile temasını engeller. Bu film, aynı zamanda bir ayna gibi yansır. Ve böylece kararmış kaşık parlak gözükür.
 
 Deney sonucunda; karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır. Bu araştırma sırasında "Aynaların optik özellikleri, karbonun ve isin özellikleri, hava ve suyun özelliklerinin kaşığın görüntüsüne etkisi" konularından faydalanılır. Bu konularla ilgili bilgilere aşağıda kaynakçada verilmiş olan adreslerden ulaşılabilir. 
 ## Kaynakçalar  
