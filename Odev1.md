@@ -10,7 +10,8 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  Black Spoon
 ## Özet
-"Black Spoon" deneyinde, bir adet metal kaşık mum alevine tutularak karartılır. Karartılan metal kaşık, su dolu bir kaba batırıldığında parlak gözükür. Deney sonucunda karartılan kaşığın, aynaya benzer özellikleri belirlenir ve olgular araştırılır.
+"Black Spoon" deneyinde, bir adet metal kaşık mum alevine tutularak karartılır. Karartılan metal kaşık, su dolu bir kaba batırıldığında parlak gözükür. Deney sonucunda karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır.
+Metal kaşık mum alevine tutulduğunda oluşan is parçacıkları, kaşığın etrafını bir film gibi sararak suyla temasını engeller. Bu film, aynı zamanda bir ayna gibi yansır.
 
 ## Kaynakçalar  
  
