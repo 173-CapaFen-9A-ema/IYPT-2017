@@ -16,7 +16,7 @@ Deneyin ilk adımı olarak bir adet metal kaşık bir süre mum alevine tutulara
 
 Metal kaşık mum alevine tutulduğunda oluşan is parçacıkları çok küçük olduğundan sudan ıslanmaları çok zordur. Su kaşığa temas edemez ve kaşığın etrafını bir film gibi sararak suyla temasını engeller. Bu film, aynı zamanda bir ayna gibi yansır. Ve böylece kararmış kaşık parlak gözükür.
 
-Deney sonucunda; karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır. Bu araştırma sırasında aynaların optik özellikleri, karbonun ve isin özellikleri, hava ve suyun özelliklerinin kaşığın görüntüsüne etkisi konularından faydalanılır.
+Deney sonucunda; karartılan kaşığın, suda ve havada neden farklı gözüktüğü bulunur, aynaya benzer özellikleri belirlenir ve olgular araştırılır. Bu araştırma sırasında "Aynaların optik özellikleri, karbonun ve isin özellikleri, hava ve suyun özelliklerinin kaşığın görüntüsüne etkisi" konularından faydalanılır.
 ## Kaynakçalar  
  
 
