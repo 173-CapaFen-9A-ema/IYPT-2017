@@ -10,7 +10,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  Black Spoon
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+"Black Spoon" deneyinde, bir adet metal kaşık mum alevine tutularak karartılır. Karartılan metal kaşık, su dolu bir kaba batırıldığında parlak gözükür. Deney sonucunda karartılan kaşığın, aynaya benzer özellikleri belirlenir ve olgular araştırılır.
 
 ## Kaynakçalar  
  
